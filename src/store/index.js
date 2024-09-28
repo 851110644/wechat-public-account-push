@@ -3431,7 +3431,7 @@ export const WEATHER_CITY = [
     id: 385,
     pid: 30,
     city_code: '101210901',
-    city_name: '义乌',
+    city_name: '金华',
     post_code: '330782',
     area_code: '0579',
     ctime: '2019-07-11 17:32:29',
