@@ -45,10 +45,10 @@ SWITCH: {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-     // id: 'ouEaB6NtMbAlweKKSCM7dEO0W8Fc',
-       id: 'ouEaB6DYtsYo49bFN2Y_qkyOSfRI',
+       id: 'ouEaB6NtMbAlweKKSCM7dEO0W8Fc',
+       //id: 'ouEaB6DYtsYo49bFN2Y_qkyOSfRI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'upy0NumXqy3nyYEPyQcZATvoMPcZ7ArLU_SRWvRbZT0',
+      useTemplateId: 'XtVEY1CTzH_vW3PxftiD1-DUnl6fzuwaH_KhqbXX7rk',
    
       courseSchedule: {
         // 单双周的基准
@@ -137,7 +137,7 @@ SWITCH: {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'ouEaB6DYtsYo49bFN2Y_qkyOSfRI',
+  CALLBACK_TEMPLATE_ID: 'QRZM5OGhzl8KAwuv56lvkJ7mhP2cULdziaZXrHLvkFQ',
 
   CALLBACK_USERS: [
     {
