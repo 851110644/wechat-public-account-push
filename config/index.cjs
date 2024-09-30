@@ -14,6 +14,52 @@ const USER_CONFIG = {
   APP_SECRET: 'bc56e2a2e4aba2980866b7776495289f',
   PROVINCE: '浙江',
   CITY: '金华',
+   // 学生课表
+  studentCourses: true,
+  coursesSchedule: true,
+  studentCourses: {
+      // 课程表相关配置
+      // 如果courseSchedule不存在或者为空（null）则认为没有课程
+      // 如果coursesSchedule是一个数组，则认为不区分单双周，直接填写星期几对应的课表数据即可
+      // 如果coursesSchedule是一个对象（如下面所示）
+      coursesSchedule: {
+        // 单双周的基准
+        benchmark: {
+          // 一个日期
+          date: '2022-09-23',
+          // 该日期是否为单周
+          isOdd: true
+        },
+        // 课表
+        courses: {
+          // 单周课表
+          // 从星期一到星期日（星期六和星期日地课表数组可不填写）
+          odd: [
+            // 例子，周一的课表
+            [
+              '1.语文',
+              '4.语文'
+            ],
+            ['1.语文',2'语文'],
+            [],
+            [],
+            [],
+            [],
+            []
+          ],
+          // 双周课表
+          even: [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+          ]
+      },
+     },
+  },
   
   USERS: [
     {
