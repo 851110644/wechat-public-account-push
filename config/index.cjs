@@ -17,6 +17,9 @@ const USER_CONFIG = {
    // 学生课表
 SWITCH: {
   courseSchedule: true,
+  weather: true,
+  earthyLoveWords: true,
+  holidaytts: true,
 },
   USERS: [
     {
