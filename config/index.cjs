@@ -14,6 +14,25 @@ const USER_CONFIG = {
   APP_SECRET: 'bc56e2a2e4aba2980866b7776495289f',
   PROVINCE: '浙江',
   CITY: '金华',
+  TIAN_API: {
+    // 天行API KEY，如果使用天行API则需要填写此项
+    key: '2b88923579722b45626a40549da4fce5',
+    
+    /** 天行API相关，需要config中配置 TIAN_API_KEY  */
+    // 早安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
+    morningGreeting: true,
+  
+    // 晚安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
+    eveningGreeting: true,
+  
+    // 天行天气（展示未来N天，最多7天）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
+    weather: 3,
+  
+    // 全网热搜榜（展示N条，最多30条）, 填 0 则不使用，按需关闭不使用的功能可以提高运行速度
+    networkHot: 0,
+  
+  
+  },
    // 学生课表
 SWITCH: {
   courseSchedule: true,
@@ -28,7 +47,7 @@ SWITCH: {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ouEaB6DYtsYo49bFN2Y_qkyOSfRI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'ZgihYO03F0kBiRc73ZyDoufB4_9jY8RvtZloxzg_o6Q',
+      useTemplateId: 'HomVc14TAchQAJjOn0B29pRkRJ42_LsZampWkJjWoQU',
    
       courseSchedule: {
         // 单双周的基准
