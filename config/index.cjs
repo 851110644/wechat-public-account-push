@@ -25,7 +25,7 @@ SWITCH: {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ouEaB6DYtsYo49bFN2Y_qkyOSfRI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'stvf8-MmKoHRDvwvrKP8ZKh6ZvmUoCO_u67o6_J_Lx4',
+      useTemplateId: 'iePM2xtS-NZf3C2x0e0UeXXpf-ZnyTeci0r_3HZGT2I',
    
       courseSchedule: {
         // 单双周的基准
