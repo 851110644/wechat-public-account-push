@@ -48,7 +48,7 @@ SWITCH: {
        //id: 'ouEaB6NtMbAlweKKSCM7dEO0W8Fc',
        id: 'ouEaB6DYtsYo49bFN2Y_qkyOSfRI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'emm4ZdwnnceZ9shltzeKpt6q1mHsYC9YVzhHPJo7Nrc',
+      useTemplateId: 'QGw1FFC0PEXfnSlhzK1LBKhpKj7CaHs2vFGVwYRO_2g',
    
       courseSchedule: {
         // 单双周的基准
