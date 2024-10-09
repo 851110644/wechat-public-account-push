@@ -13,7 +13,7 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'bc56e2a2e4aba2980866b7776495289f',
   PROVINCE: '浙江',
-  CITY: '义乌',
+  CITY: '金华',
   TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
     key: '2b88923579722b45626a40549da4fce5',
@@ -48,7 +48,7 @@ SWITCH: {
        //id: 'ouEaB6NtMbAlweKKSCM7dEO0W8Fc',
        id: 'ouEaB6DYtsYo49bFN2Y_qkyOSfRI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'QGw1FFC0PEXfnSlhzK1LBKhpKj7CaHs2vFGVwYRO_2g',
+      useTemplateId: '3KJPVuIzPq90zQ8VtfNPOpvlZ8mcGAk-FFoOUhrOcmQ',
    
       courseSchedule: {
         // 单双周的基准
