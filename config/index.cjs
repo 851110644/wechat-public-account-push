@@ -48,7 +48,7 @@ SWITCH: {
        id: 'ouEaB6NtMbAlweKKSCM7dEO0W8Fc',
        //id: 'ouEaB6DYtsYo49bFN2Y_qkyOSfRI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'Ycr7ERWawEXjgV7T_vi0WhS_TU1KK-DtllEYWVK7GAw',
+      useTemplateId: 'cPpET71wOSZgxkhm9tLxK0UjoE2vS87SdhomC8jM2oI',
    
       courseSchedule: {
         // 单双周的基准
@@ -183,7 +183,7 @@ SWITCH: {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'Ycr7ERWawEXjgV7T_vi0WhS_TU1KK-DtllEYWVK7GAw',
+  CALLBACK_TEMPLATE_ID: 'QRZM5OGhzl8KAwuv56lvkJ7mhP2cULdziaZXrHLvkFQ',
 
   CALLBACK_USERS: [
     {
