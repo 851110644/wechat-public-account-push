@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wx55b405bad9b25ca2',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'QGw1FFC0PEXfnSlhzK1LBKhpKj7CaHs2vFGVwYRO_2g',
+  APP_SECRET: 'bc56e2a2e4aba2980866b7776495289f',
   PROVINCE: '浙江',
   CITY: '义乌',
   TIAN_API: {
