@@ -45,10 +45,10 @@ SWITCH: {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-       id: 'ouEaB6NtMbAlweKKSCM7dEO0W8Fc',
-       //id: 'ouEaB6DYtsYo49bFN2Y_qkyOSfRI',
+       //id: 'ouEaB6NtMbAlweKKSCM7dEO0W8Fc',
+       id: 'ouEaB6DYtsYo49bFN2Y_qkyOSfRI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'XtVEY1CTzH_vW3PxftiD1-DUnl6fzuwaH_KhqbXX7rk',
+      useTemplateId: 'GSmJbcrq545y1hNLTcE7U-s020CzjxEY8uJCI3jN0dw',
    
       courseSchedule: {
         // 单双周的基准
@@ -120,13 +120,59 @@ SWITCH: {
           ],
           // 双周课表
           even: [
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            []
+            [
+              '语文',
+                '--'   ,
+                   '--'   ,
+              '语文',
+                  '--'    ,
+              '道德与法治'
+            ],
+            // 周二
+            [
+              '语文',
+              '语文',
+               '--'  ,
+               '--'  ,
+               '--'  ,
+               '--'  
+            ],
+            // 周三
+            [
+              '语文',
+              '道德与法治',
+               '--'  ,
+               '--'  ,
+               '--'  ,
+               '--'  ,
+            ],
+            // 周四
+            [
+              '语文',
+               '--'  ,
+               '--'  ,
+               '--'  ,
+               '--'  ,
+               '--'  
+    
+            ],
+            // 周五
+            [
+              '--'  ,
+              '--'  ,
+            '语文',
+               '--'  ,
+              '班队活动',
+              '地方.校本'
+            ],
+            // 周六
+            [
+              
+            ],
+            // 周日
+            [
+             
+            ]
            ]
           }
         },
